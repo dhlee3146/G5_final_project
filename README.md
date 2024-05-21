@@ -13,7 +13,22 @@ We discuss about tha idea
 Our group's lesson plan is like the below
 
 [1]. Preview for Today's Class
+-comprehension through the video app
 
 [2]. Activity
+<activity with teacher>
+-grammar point: 관계대명사, 접속사 포인트 체크 
+-comprehension point: 본문학습
+
+<group activity>
+-quiz: use the quiz code app 
+-Let's arrange the event order
+
+<activity with teacher; feedback time>
+-After the quiz, teacher should collect the error among the questions.
+-We will use the text - to - Audio by Sentence 
+-We weill use the padlet
+
 
 [3]. Review
+-use the word cloud
