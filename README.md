@@ -1,3 +1,2 @@
 # G5_final_project 
-target: middle school student
-content: we will concentrate the grammar
+😎Code Director wrote the sample at 1.p.m
