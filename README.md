@@ -8,9 +8,7 @@ group members: Dahye Lee, Hajeong Nor, Jeongmin Yoon
 Our group's lesson plan is like the below
 
 [1]. Preview for Today's Class
-|word function|
-[2]. Activity
-|Audio for selected wods by the users|
 
-|Read aloud practice|
+[2]. Activity
+
 [3]. Review
