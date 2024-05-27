@@ -13,7 +13,7 @@ We discuss about tha idea
 Our group's lesson plan is like the below
 
 [1]. Preview for Today's Class
--comprehension through the video app
+- preview through short video(30s-1m)
 
 [2]. Activity
 <activity with teacher>
