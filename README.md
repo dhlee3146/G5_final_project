@@ -2,11 +2,13 @@
 
 This read.me file is about the project plan and going situation
 
-group members: Dahye Lee, Hajeong Nor, Jeongmin Yoon
+group members: Dahye Lee(PM), Hajeong Nor(MD), Jeongmin Yoon(CD)
 
 [what we do];progress situation
 
-😎Code Director wrote the sample at 1.p.m(2024.05.21)
+😎Code Director wrote the sample1 at 1.p.m(2024.05.21)
+😎Code Director wrote the sample2 at 1.p.m(2024.05.28)
++ CD Make video for preview
 
 We discuss about tha idea
 
