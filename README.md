@@ -1,4 +1,7 @@
-# G5_final_project 
+# 😊 G5_final_project 
+
+This read.me file is about the project plan and going situation
+
 group members: Dahye Lee, Hajeong Nor, Jeongmin Yoon
 
 [what we do];progress situation
@@ -11,14 +14,15 @@ We discuss about tha idea
 2) We will use the QR code for review
    
 Our group's lesson plan is like the below
+#The lesson plan
 
-[1]. Preview for Today's Class
+##[1]. Preview for Today's Class
 - preview through short video(30s-1m)
 
-[2]. Activity
+##[2]. Activity
 <activity with teacher>
--grammar point: 관계대명사, 접속사 포인트 체크 
--comprehension point: 본문학습
+-grammar point check
+-comprehension point: learning about the context
 
 <group activity>
 -quiz: use the quiz code app 
@@ -29,8 +33,7 @@ Our group's lesson plan is like the below
 -We will use the text - to - Audio by Sentence 
 -We weill use the padlet
 
-
-[3]. Review
+##[3]. Review
 -use the word cloud
 
 <our story>
