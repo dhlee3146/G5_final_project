@@ -14,31 +14,39 @@ We discuss about tha idea
 2) We will use the QR code for review
    
 Our group's lesson plan is like the below
-# 😊 The lesson plan
+## 😊 The lesson plan
 
 ## [1]. Preview for Today's Class
 - preview through short video(30s-1m)
 
-## [2]. Activity
+### [2]. Activity
 <activity with teacher>
+   
 -grammar point check
+
 -comprehension point: learning about the context
 
 <group activity>
+   
 -quiz: use the quiz code app 
+
 -Let's arrange the event order
 
 <activity with teacher; feedback time>
+
 -After the quiz, teacher should collect the error among the questions.
+
 -We will use the text - to - Audio by Sentence 
+
 -We weill use the padlet
 
-## [3]. Review
+### [3]. Review
+
 -use the word cloud
 
-<our story>
+## 😍 our story
+   
 The Cave of Whispers
-
 
 In the small town of Willow Creek, nestled between lush hills and a winding river, four friends—Emma, Jake, Mia, and Liam—stumbled upon an old map tucked inside a dusty library book titled "Legends of the Lost." The map depicted a hidden cave known only as the Cave of Whispers, rumored to hold a mysterious treasure that no one in Willow Creek had ever found.
 The friends, buzzing with excitement, planned an adventure to discover the cave. They packed their backpacks with essentials: flashlights, a compass, snacks, and a camera to document their journey. With the map as their guide, they set off early one Saturday morning, the summer sun casting long shadows through the forest.
