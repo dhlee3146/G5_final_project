@@ -21,7 +21,6 @@ Our group's lesson plan is like the below
 
 ### [2]. Activity
 <activity with teacher>
-   
 -grammar point check
 
 -comprehension point: learning about the context
