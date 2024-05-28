@@ -14,7 +14,7 @@ We discuss about tha idea
 2) We will use the QR code for review
    
 Our group's lesson plan is like the below
-# The lesson plan
+# 😊 The lesson plan
 
 ## [1]. Preview for Today's Class
 - preview through short video(30s-1m)
