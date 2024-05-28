@@ -25,10 +25,13 @@ preview through short video(1m 30s)
 | activity | the tool | 
 |------| --------------------------------|
 | activity with teacher | grammar point check, 
-comprehension point: learning about the context  |
-| group activity | quiz: use the quiz code app, Let's arrange the event order |
+| | comprehension point: learning about the context  |
+| group activity | quiz: use the quiz code app |
+| | Let's arrange the event order |
 | feedback time | After the quiz, teacher should collect the error among the questions.  |
-|  | quiz: use the quiz code app, Let's arrange the event order, -We will use the text - to - Audio by Sentence, -We will use the padlet |
+|  | quiz: use the quiz code app, Let's arrange the event order
+|  | We will use the text - to - Audio by Sentence |
+|  | We will use the padlet |
 
 ### [3]. Review
 
