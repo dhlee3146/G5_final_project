@@ -17,7 +17,7 @@ We discuss about tha idea
 Our group's lesson plan is like the below
 ## 😊 The lesson plan
 
-## [1]. Preview for Today's Class  
+### [1]. Preview for Today's Class  
 
 preview through short video(1m 30s) 
 
