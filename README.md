@@ -20,17 +20,11 @@ Our group's lesson plan is like the below
 preview through short video(30s-1m) 
 
 ### [2]. Activity
-|activity with teacher| grammar point check | 
-|                     | comprehension point: learning about the context | 
-| group activity | quiz: use the quiz code app 
-|                 | Let's arrange the event order |
-| feedback time | After the quiz, teacher should collect the error among the questions.
-| | -We will use the text - to - Audio by Sentence | 
-| | -We will use the padlet| 
 
 | activity | the tool | 
 |------| --------------------------------|
-| activity with teacher | grammar point check, comprehension point: learning about the context  |
+| activity with teacher | grammar point check, 
+comprehension point: learning about the context  |
 | group activity | quiz: use the quiz code app, Let's arrange the event order |
 | feedback time | After the quiz, teacher should collect the error among the questions.  |
 |  | quiz: use the quiz code app, Let's arrange the event order, -We will use the text - to - Audio by Sentence, -We will use the padlet |
