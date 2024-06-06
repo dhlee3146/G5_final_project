@@ -20,7 +20,47 @@ group members: Dahye Lee(PM), Hajeong Nor(MD), Jeongmin Yoon(CD)
 Our group's lesson plan is like the below
 ## 😊 The lesson plan
 
-### [1]. 
+### [1]. Preview
+
+💙Watching the summary video
+
+💙Guessing the point.
+
+We made the video code. Using this, Students can guess and preview the today's lesson
+
+
+### [2]. Learning the context and roup activity
+
+💙Teaching Textbook Material_Using Gradio App
+
+In this step, Students can listen and speak the context, and they can understand the contents.
+
+💙Grammar teaching_Group activity
+
+Students can understand the grammar and solve the problem. 
+Students can check their own comprehension
+
+
+### [3]. Feedback time
+
+💙Making a feedback
+
+Students should upload the score to padlet
+
+
+### [4]. Review
+
+💙Wordcloud
+
+Students can check the important word, and through this, they can review the story and class. 
+
+
+### [5]
+
+💙assignment
+
+Using the QR code, Students can practice their study.
+
 
 ## 😍 our story
    
