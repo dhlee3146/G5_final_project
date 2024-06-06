@@ -8,8 +8,8 @@ group members: Dahye Lee(PM), Hajeong Nor(MD), Jeongmin Yoon(CD)
 
 😎Code Director wrote the sample1 at 1.p.m(2024.05.21)  
 😎Code Director wrote the sample2 + CD Make video for preview at 2.p.m(2024.05.28)
-
-We discuss about tha idea
+😎MD and PM made the file, "G5 final project code", and organize data. (2024. 05. 28)
+😎We wrote the code and presentation script (2024. 06.05)
 
 1) We will use the quiz and voice-to-text app in comprehension level.
 2) We will use the QR code for review
@@ -17,26 +17,7 @@ We discuss about tha idea
 Our group's lesson plan is like the below
 ## 😊 The lesson plan
 
-### [1]. Preview for Today's Class  
-
-preview through short video(1m 30s) 
-
-### [2]. Activity
-
-| classification | the activity | 
-|------| --------------------------------|
-| activity with teacher | Grammar point check | 
-| | Comprehension point: learning about the context  |
-| group activity | Quiz: use the quiz code app |
-| | Let's arrange the event order |
-| feedback time | After the quiz, teacher should collect the error among the questions.  |
-|  | Quiz: use the quiz code app, Let's arrange the event order
-|  | We will use the text - to - Audio by Sentence |
-|  | We will use the padlet |
-
-### [3]. Review
-
--use the word cloud
+### [1]. 
 
 ## 😍 our story
    
