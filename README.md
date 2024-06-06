@@ -66,6 +66,7 @@ Using the QR code, Students can practice their study.
 💙Padlet
 
 Please search the padlet link and look at the "Group 5" 
+
 https://padlet.com/mirankim316/digital-literacy-and-english-education-spring-2024-2gmo48o5djxsjpqa 
 
 ## 😍 our story
