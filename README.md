@@ -7,8 +7,11 @@ group members: Dahye Lee(PM), Hajeong Nor(MD), Jeongmin Yoon(CD)
 [what we do];progress situation
 
 😎Code Director wrote the sample1 at 1.p.m(2024.05.21)  
+
 😎Code Director wrote the sample2 + CD Make video for preview at 2.p.m(2024.05.28)
+
 😎MD and PM made the file, "G5 final project code", and organize data. (2024. 05. 28)
+
 😎We wrote the code and presentation script (2024. 06.05)
 
 1) We will use the quiz and voice-to-text app in comprehension level.
