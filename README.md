@@ -29,13 +29,13 @@ Our group's lesson plan is like the below
 We made the video code. Using this, Students can guess and preview the today's lesson
 
 
-### [2]. Learning the context and group activity
+### [2]. Learning the context and group activity (Using Chat-gpt:)
 
 💙Teaching Textbook Material_Using Gradio App
 
 In this step, Students can listen and speak the context, and they can understand the contents.
 
-💙Grammar teaching_Group activity
+💙Grammar teaching_Group activity 
 
 Students can understand the grammar and solve the problem. 
 Students can check their own comprehension.
