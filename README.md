@@ -6,16 +6,23 @@ group members: Dahye Lee(PM), Hajeong Nor(MD), Jeongmin Yoon(CD)
 
 [what we do];progress situation
 
-😎Code Director wrote the sample1 at 1.p.m(2024.05.21)  
+😎 Coder wrote the sample1 at 1.p.m(2024.05.21)  
 
-😎Code Director wrote the sample2 + CD Make video for preview at 2.p.m(2024.05.28)
+😎 Coder wrote the sample2 + CD made video for preview at 2.p.m(2024.05.28)
++ Video : Image source = Playground (AI Image gernerating site)
++ Quiz using Multiple question: Use Chat GPT to make Instruction box.
 
-😎MD and PM made the file, "G5 final project code", and organize data. (2024. 05. 28)
+😎 MD and PM made the file, "G5 final project code", and organize data. (2024. 05. 28)
 
-😎We wrote the code and presentation script (2024. 06.05)
+😎 We wrote the code and presentation script (2024. 06.05)
 
 1) We will use the quiz and voice-to-text app in comprehension level.
 2) We will use the QR code for review
+
+😎 CD made the 'Rearrange Fragment App' using Cloze Question App.
+😎 PM made the 'Sentence Combiner App' using Chat GPT. (Idea based on Yes-no question)
+
+---
    
 Our group's lesson plan is like the below
 ## 😊 The lesson plan
