@@ -79,9 +79,9 @@
 End
 
 
-## tool
+## Digital Platform for Today's Class
 
-💙Padlet
+💙 Padlet
 
 Please search the padlet link and look at the "Group 5" 
 
