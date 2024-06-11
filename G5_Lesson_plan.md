@@ -18,14 +18,14 @@
 
 | Activity                                            | Description                                                                          | Notes                                                                                  | Time  |
 |-----------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------|
-| Preview                                             | Watch a short video related to the story and discuss a key question                  | Video player required                                                                 | 5 min |
-| Learning the Story                                  | Use Read-Aloud Practice App for sentence-by-sentence reading and pronunciation       | Read-Aloud Practice App                                                               | 20 min|
-| Grammar Teaching                                    | Explain relative pronouns using slide images                                         | Slide images or presentation software                                                 | 5 min |
-| Personal Activity for Grammar Learning              | Create and share sentences using the Sentence Combiner App                           | Sentence Combiner App, Padlet (QR code for access)                                     | 6 min |
-| Group Activity for Story Comprehension              | Use the Multiple Question App for group comprehension questions                      | Multiple Question App, Padlet                                                         | 5 min |
-| Feedback on Group Activity                          | Provide feedback on the group activity                                               | Padlet for viewing student responses                                                  | 3 min |
-| Review through Word Cloud App                       | Review key points using a word cloud                                                 | Word Cloud App                                                                        | 3 min |
-| Giving Assignment                                   | Assign homework using the Cloze Question App                                         | Cloze Question App, Padlet for homework submission                                    | 2 min |
+| **Preview**                                             | Watch a short video related to the story and discuss a key question                  | Video player required                                                                 | 3 min |
+| **Learning the Story**                                  | Use Read-Aloud Practice App for sentence-by-sentence reading and pronunciation       | Read-Aloud Practice App                                                               | 20 min|
+| **Grammar Teaching**                                    | Explain relative pronouns using slide images                                         | Slide images or presentation software                                                 | 5 min |
+| **Personal Activity for Grammar Learning**              | Create and share sentences using the Sentence Combiner App                           | Sentence Combiner App, Padlet (QR code for access)                                     | 6 min |
+| **Group Activity for Story Comprehension**              | Use the Multiple Question App for group comprehension questions                      | Multiple Question App, Padlet                                                         | 5 min |
+| **Feedback**                          | Provide feedback on the group activity                                               | Padlet for viewing student responses                                                  | 3 min |
+| **Review through Word Cloud App**                       | Review key points using a word cloud                                                 | Word Cloud App                                                                        | 3 min |
+| **Assignment**                                   | Assign homework using the Cloze Question App                                         | Cloze Question App, Padlet for homework submission                                    |  -  |
 
 
 ---
