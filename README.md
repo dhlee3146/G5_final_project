@@ -2,7 +2,7 @@
 
 + #### This Read.me file is about the project plan and going situation.
 
-# Group members: Dahye Lee(PM), Hajeong Nor(MD), Jeongmin Yoon(CD)
+#### Group members: Dahye Lee(PM), Hajeong Nor(MD), Jeongmin Yoon(CD)
 
 ---
 
