@@ -21,6 +21,7 @@
 😎 We wrote the code and presentation script (2024. 06.04)
 1) We will use the quiz and voice-to-text app in comprehension level.
 2) We will use the QR code for review
+
 😎 CD made the 'Rearrange Fragment App' using Cloze Question App.
 + Insert Timer Videos for each activity. (I attempt to create a timer app using Chat GPT, but the code didn't show the passage of time in real-time, so I replaced it with the Youtube Video.
 
