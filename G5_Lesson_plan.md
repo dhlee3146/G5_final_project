@@ -1,9 +1,14 @@
-# 🏫 Middle School Grade 2 English Lesson Plan
+# 🏫 English Lesson Plan
 
+---
+
+### 🚀 Target Student : Middle school, Grade 2
+
+---
 
 ## 😊 Lesson Objectives
-### 1.
-### 2. 
+#### 1.
+#### 2. 
 
 
 
