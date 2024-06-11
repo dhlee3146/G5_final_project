@@ -37,6 +37,9 @@
 ## Lesson Overview
 
 : Lesson Objectives
+#### 1. We can comprehend and discuss the key themes messages of the story.
+#### 2. We can correctly use relative pronouns and sentences.
+
 
 | Time  | Activity                                            | Description                                                                          | Notes                                                                                  |
 |-------|-----------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
