@@ -26,7 +26,9 @@
 + Insert Timer Videos for each activity. (I attempt to create a timer app using Chat GPT, but the code didn't show the passage of time in real-time, so I replaced it with the Youtube Video.
 
 😎 PM made the 'Sentence Combiner App' using Chat GPT. (Idea based on Yes-no question) (2024.06.05)
+
 😎 MD uploaeded the G5_lesson_plan.md. (2024. 06.)
+
 😎 CD made a new collab page for the presentation. (G5_Coding_Page) (2024.06.)
 
 ---
