@@ -1,4 +1,4 @@
-# 😊 G5_final_project 
+# [G5] Main Page for Final Project😊 
 
 This Read.me file is about the project plan and going situation.
 
