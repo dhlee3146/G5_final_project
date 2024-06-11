@@ -7,8 +7,8 @@
 ---
 
 ## 😊 Lesson Objectives
-#### 1.
-#### 2. 
+#### 1. We can understand the grammar point. 
+#### 2. We can understand the the context
 
 
 
