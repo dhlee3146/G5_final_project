@@ -1,5 +1,6 @@
 # 🏫 English Lesson Plan
 
+---
 
 ### 🚀 Target Student : Middle school, Grade 2
 
