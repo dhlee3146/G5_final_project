@@ -1,6 +1,11 @@
-## 😊 The lesson plan
+#  😊 Middle School Grade 2 English Lesson Plan
 
-# Middle School Grade 2 English Lesson Plan
+
+## Lesson Objectives
+### 1.
+### 2. 
+
+
 
 ## Lesson Overview
 
