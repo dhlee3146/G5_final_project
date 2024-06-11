@@ -24,7 +24,7 @@
 | **Personal Activity for Grammar Learning**              | Create and share sentences using the Sentence Combiner App                           | Sentence Combiner App, Padlet (QR code for access)                                     | 6 min |
 | **Group Activity for Story Comprehension**              | Use the Multiple Question App for group comprehension questions                      | Multiple Question App, Padlet                                                         | 5 min |
 | **Feedback**                          | Provide feedback on the group activity                                               | Padlet for viewing student responses                                                  | 3 min |
-| **Review through Word Cloud App**                       | Review key points using a word cloud                                                 | Word Cloud App                                                                        | 3 min |
+| **Review**                       | Review key points using a word cloud                                                 | Word Cloud App                                                                        | 3 min |
 | **Assignment**                                   | Assign homework using the Cloze Question App                                         | Cloze Question App, Padlet for homework submission                                    |  -  |
 
 
