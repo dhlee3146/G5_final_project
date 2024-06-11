@@ -1,13 +1,15 @@
-#  😊 Middle School Grade 2 English Lesson Plan
+# 🏫 Middle School Grade 2 English Lesson Plan
 
 
-## Lesson Objectives
+## 😊 Lesson Objectives
 ### 1.
 ### 2. 
 
 
 
-## Lesson Overview
+---
+
+## 📋 Lesson Overview
 
 | Time  | Activity                                            | Description                                                                          | Notes                                                                                  |
 |-------|-----------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -20,8 +22,11 @@
 | 3 min | Review through Word Cloud App                       | Review key points using a word cloud                                                 | Word Cloud App                                                                        |
 | - | Giving Assignment                                   | Assign homework using the Cloze Question App                                         | Cloze Question App, Padlet for homework submission                                    |
 
-## Detailed Activity Plan
 
+---
+
+## 📋 Detailed Activity Plan
+---
 ### 01. Preview
 
 - Watch a 1.5-minute video related to the story.
