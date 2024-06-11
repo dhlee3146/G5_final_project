@@ -26,7 +26,7 @@
 ---
 
 ## 📋 Detailed Activity Plan
----
+
 ### 01. Preview
 
 - Watch a 1.5-minute video related to the story.
