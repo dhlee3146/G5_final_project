@@ -30,7 +30,7 @@
 
 ---
    
-Our group's lesson plan is like the below
+## 📋 Our group's lesson plan is like the below
 
 # Middle School Grade 2 English Lesson Plan
 
