@@ -165,3 +165,8 @@ Suddenly, Jake, who was leading, halted. Ahead, in a small clearing within the c
 Emma carefully unfolded the parchment, revealing a message written in an elegant script. It read: "To those who seek adventure, true treasure lies not in gold but in the journey and the friendships forged along the way."
 The friends sat back, the weight of the words sinking in. They realized that the real treasure was their shared adventure—the challenges they overcame together and the memories they created.
 As they left the cave, the sun was setting, casting a golden glow over the landscape. They didn’t take anything from the chest, choosing instead to leave it for the next group of adventurers. Back home, they shared their story, the mysterious symbols, and the sage words of the parchment. The Cave of Whispers had given them a treasure far greater than they had imagined: a story of friendship, courage, and adventure that they would cherish forever.
+
+## coding page
+
+https://github.com/dhlee3146/G5_final_project/blob/main/G5_Coding_Page.ipynb
+
