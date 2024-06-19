@@ -13,7 +13,7 @@ Overall, the feedback reflects that your presentation was highly successful, wit
 |Questions|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Total mean (SD)|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Category|Alignment|Integration|Engagement|Stimulation|Support|Accessibility|Integration|Autonomy|Adaptability|Presenation||
-| Group 4| 5.4|4.94|5.4|4.27|5.4|5.3|5.05|5.04.89|5.5| **5.13** (0.51)| 
+| Group 4| 5.4|4.94|5.4|4.27|5.4|5.3|5.05|5.0|4.89|5.5| **5.13** (0.51)| 
 
 ![Score summary](https://github.com/MK316/Spring2024/blob/main/DLEE/Project/DLEE_G05.png)
 
