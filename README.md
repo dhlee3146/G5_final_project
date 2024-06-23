@@ -13,33 +13,10 @@
 | 2024.06.04     | 😎 We wrote the code and presentation script                                                                             | We will use the quiz and voice-to-text app in comprehension level.<br>We will use the QR code for review |
 | 2024.06.04     | 😎 CD made the 'Rearrange Fragment App' using Cloze Question App.<br>Insert Timer Videos for each activity. (I attempt to create a timer app using Chat GPT, but the code didn't show the passage of time in real-time, so I replaced it with the Youtube Video.) |                                                                                        |
 | 2024.06.05     | 😎 PM made the 'Sentence Combiner App' using Chat GPT. (Idea based on Yes-no question)                                    |                                                                                        |
-| 2024.06. 12    | 😎 MD uploaded the G5_lesson_plan.md                                                                                      |                                                                                        |
+| 2024.06. 12    | 😎 MD uploaded the G5_lesson_plan.md + CD mage a grid based on MD's Lesson Plan |                                                                                        |
 | 2024.06. 12     | 😎 CD made a new collab page for the presentation. (G5_Coding_Page)                                                       |                                                                                        |
 
-#### [what we do];progress situation
 
-😎 Coder wrote the sample1 at 1.p.m(2024.05.21)  
-
-😎 Coder wrote the sample2 + CD made video for preview at 2.p.m(2024.05.28)
-+ Video : Image source = Playground (AI Image gernerating site)
-+ Quiz using Multiple question: Use Chat GPT to make Instruction box.
-+ Read-Aloud Practice APP based on text-to-audio by sentence app
-
-
-😎 MD and PM made the file, "G5 final project code", and organize data. (2024. 05. 28)
-
-😎 We wrote the code and presentation script (2024. 06.04)
-1) We will use the quiz and voice-to-text app in comprehension level.
-2) We will use the QR code for review
-
-😎 CD made the 'Rearrange Fragment App' using Cloze Question App.
-+ Insert Timer Videos for each activity. (I attempt to create a timer app using Chat GPT, but the code didn't show the passage of time in real-time, so I replaced it with the Youtube Video.
-
-😎 PM made the 'Sentence Combiner App' using Chat GPT. (Idea based on Yes-no question) (2024.06.05)
-
-😎 MD uploaeded the G5_lesson_plan.md. (2024. 06.)
-
-😎 CD made a new collab page for the presentation. (G5_Coding_Page) (2024.06.)
 
 ---
    
