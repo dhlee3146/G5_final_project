@@ -23,10 +23,8 @@ https://github.com/dhlee3146/G5_final_project/blob/main/G5_Coding_Page.ipynb
 
 
 ---
-   
-## 📋 Our group's lesson plan is like the below
 
-# Middle School Grade 2 English Lesson Plan
+# 📋 Middle School Grade 2 English Lesson Plan
 
 ## Lesson Overview
 
