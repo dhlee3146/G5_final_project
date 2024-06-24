@@ -126,7 +126,7 @@ https://github.com/dhlee3146/G5_final_project/blob/main/G5_Coding_Page.ipynb
 - Students rearrange fragments to form complete sentences with relative pronouns.
 
 **Script:**
-- Teacher: Now, let’s give you an assignment! You can find the post about the assignment. The task is to rearrange fragments to make a complete sentence involving relative pronouns. Read the instructions carefully, and upload your screen image to Padlet. Complete your assignment by the next class on June 12th. See you next class!
+- Teacher: Now, let me give you an assignment! You can find the post about the assignment. The task is to rearrange fragments to make a complete sentence involving relative pronouns. Read the instructions carefully, and upload your screen image to Padlet. Complete your assignment by the next class on June 12th. See you next class!
 
 ---
 
